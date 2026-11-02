@@ -1,0 +1,9 @@
+Brush
+50
+3
+WaterBottle
+100
+5
+Chair
+500
+2
